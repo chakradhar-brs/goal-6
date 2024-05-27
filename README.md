@@ -1,4 +1,4 @@
-# Joga chakrahar| portfolio
+# J.chakrahar| portfolio
 
 ###### Purpose:
     To create a simple chakradhar|portfolio on web.
